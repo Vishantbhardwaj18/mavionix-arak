@@ -1,10 +1,3 @@
-# mavionix-arak
-ARAK is an autonomous robotic inspection and repair system designed to monitor critical industrial infrastructure such as pipelines, chemical plants, and utility systems. The system integrates robotics, computer vision, IoT, and automated repair mechanisms to detect structural damage and perform emergency sealing operations.
-
-Here is a **professional GitHub README** for your **ARAK project**. It is written in a **technical but clear format** so that anyone viewing your repository (judges, recruiters, collaborators) understands the project properly. 🚀
-
-
-
 # ARAK – Autonomous Robotic Infrastructure Monitoring System
 
 ![ARAK Robot](arak_robot.jfif)
