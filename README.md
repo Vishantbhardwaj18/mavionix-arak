@@ -7,6 +7,8 @@ Here is a **professional GitHub README** for your **ARAK project**. It is writte
 
 # ARAK – Autonomous Robotic Infrastructure Monitoring System
 
+![ARAK Robot](images/arak_robot.png)
+
 ARAK is an **autonomous robotic inspection and repair system** designed to monitor critical industrial infrastructure such as pipelines, chemical plants, and utility systems. The system integrates **robotics, computer vision, IoT, and automated repair mechanisms** to detect structural damage and perform emergency sealing operations in hazardous environments where human inspection is risky or inefficient.
 
 The primary objective of ARAK is to enable **continuous infrastructure health monitoring**, early damage detection, and rapid response to potential failures.
